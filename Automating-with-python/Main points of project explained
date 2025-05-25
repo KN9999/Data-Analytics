@@ -1,0 +1,3 @@
+Data is ingested, cleaned and organised in python
+the final lists produced from the python script are pulled into a script that creates a graphic (redacted_names_complaint.png)
+The graphic is pulled into a report, so that the contents of the report are repeatable, and the graphic updated in seconds for each quarterly report.
